@@ -17,6 +17,7 @@
 |Bitrise Grafana API   |https://github.com/DamienBitrise/bitrise-grafana-api         | |
 |Bitrise Slack alert   |https://github.com/DamienBitrise/bitrise-slack-alert-bot     | |
 |Chrome Build status   |https://github.com/viplezer/bitrise-build-status-indicator   | |
+|Bitrise Fastlane Plugin  |https://github.com/natura-cosmeticos/fastlane-plugin-bitrise-automation | |
 
 
 Want to add your own bitrise related project ?

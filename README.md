@@ -18,6 +18,7 @@
 |Bitrise Slack alert   |https://github.com/DamienBitrise/bitrise-slack-alert-bot     | |
 |Chrome Build status   |https://github.com/viplezer/bitrise-build-status-indicator   | |
 |Bitrise Fastlane Plugin  |https://github.com/natura-cosmeticos/fastlane-plugin-bitrise-automation | |
+|Bitrise Raycast Extension|https://www.raycast.com/ubuntudroid/bitrise| Bitrise extension for the popular [Raycast](https://www.raycast.com) macOS launcher|
 
 
 Want to add your own bitrise related project ?
